@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"EasyDiff",
+		"Emmet",
+		"FileOpTabContextMenu",
+		"Hayaku - tools for writing CSS faster",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"MarkdownEditing",
+		"Material Theme",
+		"Minify",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pug",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Sync View Scroll",
+		"Syntax Highlighting for PostCSS",
+		"TabsExtra",
+		"tern_for_sublime",
+		"Vue Syntax Highlight"
+	]
+}

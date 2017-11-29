@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+pre
+    code{{${1}|json}}
+]]></content>
+    <tabTrigger>pre</tabTrigger>
+    <scope>text.jade</scope>
+</snippet>
